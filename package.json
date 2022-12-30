@@ -14,7 +14,7 @@
     "express": "~4.13.1",
     "jade": "~1.11.0",
     "method-override": "^2.3.4",
-    "mocha": "^6.2.1",
+    "mocha": "^10.2.0",
     "mongoose": "^4.0.7",
     "morgan": "~1.6.1",
     "supertest": "^4.0.2"
